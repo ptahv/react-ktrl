@@ -1,0 +1,25 @@
+{
+  "name": "react-ktrl",
+  "version": "0.0.1-RC",
+  "description": "React controller.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptahv/react-ktrl.git"
+  },
+  "keywords": [
+    "react",
+    "controller",
+    "mvc",
+    "context"
+  ],
+  "author": "Petri Tahvanainen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ptahv/react-ktrl/issues"
+  },
+  "homepage": "https://github.com/ptahv/react-ktrl#readme"
+}
